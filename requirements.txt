@@ -1,0 +1,10 @@
+streamlit
+openai
+python-dotenv
+langchain-openai
+langchain-core
+langchain-community
+duckduckgo-search
+ddgs
+langgraph
+pydantic
